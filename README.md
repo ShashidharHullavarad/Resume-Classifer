@@ -1,6 +1,6 @@
 # 🔍 AI-Powered Resume Classifier
 
-[Screenshot 2025-06-02 223702](https://github.com/user-attachments/assets/bbc7bedf-d89f-4988-9b5b-29b8a3acf47d)
+![Screenshot 2025-06-02 223702](https://github.com/user-attachments/assets/bbc7bedf-d89f-4988-9b5b-29b8a3acf47d)
 *Figure 1: Upload resumes and analyze them instantly*
 
 A machine learning tool that automatically extracts skills, predicts job profiles, and categorizes resumes (PDF/DOCX) using NLP.
