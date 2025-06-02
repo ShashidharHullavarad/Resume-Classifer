@@ -29,3 +29,21 @@ A machine learning tool that automatically extracts skills, predicts job profile
    ```bash
    git clone https://github.com/your-username/resume-classifier.git
    cd resume-classifier
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the app:
+   ```bash
+   streamlit app.py
+   ```
+
+---
+
+## 📬 Contact
+
+For questions, feedback, or contributions:
+- 📧 **Email**: [shashihullavarad@gmail.com](mailto:shashihullavarad@gmail.com)  
+- 💻 **GitHub**: [ShashidharHullavarad](https://github.com/ShashidharHullavarad)  
+- 🔗 **LinkedIn**: [Shashidhar Hullavarad](https://www.linkedin.com/in/shashidhar-hullavarad-90b907213) 
