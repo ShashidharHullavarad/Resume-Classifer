@@ -13,7 +13,7 @@ A machine learning tool that automatically extracts skills, predicts job profile
 - **Batch processing**: Upload multiple resumes at once.
 - **Interactive table** with filtering options (see screenshot below).
 
-[Screenshot 2025-06-02 223731](https://github.com/user-attachments/assets/45187417-64d8-4b49-b342-c9e9f99820cb) 
+![Screenshot 2025-06-02 223731](https://github.com/user-attachments/assets/45187417-64d8-4b49-b342-c9e9f99820cb) 
 *Figure 2: Filter candidates by predicted profiles*
 
 ---
